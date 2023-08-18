@@ -1,0 +1,437 @@
+[
+    {
+        "selectedService": {
+            "id": 2,
+            "title": "Kybella",
+            "product": [
+                {
+                    "title": "Belotero",
+                    "unit": "ml",
+                    "id": 145,
+                    "treatment": [
+                        {
+                            "id": 14,
+                            "title": "Lower Face"
+                        },
+                        {
+                            "id": 14,
+                            "title": "Armpits"
+                        },
+                        {
+                            "id": 14,
+                            "title": "Hands"
+                        }
+                    ]
+                },
+                {
+                    "title": "Juvederm Ultra",
+                    "unit": "ml",
+                    "id": 45454541,
+                    "treatment": [
+                        {
+                            "id": 1,
+                            "title": "Upper Face"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Around Eyes"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Lower Face"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Armpits"
+                        },
+                        {
+                            "id": 5,
+                            "title": "Hands"
+                        }
+                    ]
+                },
+                {
+                    "title": "Juvederm Ultra +",
+                    "unit": "mg",
+                    "id": 13435465,
+                    "treatment": [
+                        {
+                            "id": 1,
+                            "title": "Upper Face"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Around Eyes"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Lower Face"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Armpits"
+                        },
+                        {
+                            "id": 5,
+                            "title": "Hands"
+                        }
+                    ]
+                },
+                {
+                    "title": "Juvederm Volbella",
+                    "unit": "mg",
+                    "id": 10976,
+                    "treatment": [
+                        {
+                            "id": 1,
+                            "title": "Upper Face"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Around Eyes"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Lower Face"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Armpits"
+                        },
+                        {
+                            "id": 5,
+                            "title": "Hands"
+                        }
+                    ]
+                }
+            ]
+        },
+        "selectedProduct": {
+            "title": "Juvederm Ultra",
+            "unit": "ml",
+            "id": 45454541,
+            "treatment": [
+                {
+                    "id": 1,
+                    "title": "Upper Face"
+                },
+                {
+                    "id": 2,
+                    "title": "Around Eyes"
+                },
+                {
+                    "id": 3,
+                    "title": "Lower Face"
+                },
+                {
+                    "id": 4,
+                    "title": "Armpits"
+                },
+                {
+                    "id": 5,
+                    "title": "Hands"
+                }
+            ]
+        },
+        "selectedTreatment": {
+            "id": 1,
+            "title": "Rejuvenation",
+            "image": 12
+        },
+        "productValue": "122",
+        "selectedArea": {
+            "id": 3,
+            "title": "Armpits"
+        }
+    },
+    {
+        "selectedService": {
+            "id": 4,
+            "title": "Radiesse",
+            "product": [
+                {
+                    "title": "Belotero",
+                    "unit": "ml",
+                    "id": 122,
+                    "treatment": [
+                        {
+                            "id": 1,
+                            "title": "Upper Face"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Around Eyes"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Lower Face"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Armpits"
+                        },
+                        {
+                            "id": 5,
+                            "title": "Hands"
+                        }
+                    ]
+                },
+                {
+                    "title": "Juvederm Ultra",
+                    "unit": "ml",
+                    "id": 12,
+                    "treatment": [
+                        {
+                            "id": 1,
+                            "title": "Upper Face"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Around Eyes"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Lower Face"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Armpits"
+                        },
+                        {
+                            "id": 5,
+                            "title": "Hands"
+                        }
+                    ]
+                },
+                {
+                    "title": "Juvederm Ultra +",
+                    "unit": "mg",
+                    "id": 991,
+                    "treatment": [
+                        {
+                            "id": 1,
+                            "title": "Upper Face"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Around Eyes"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Lower Face"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Armpits"
+                        },
+                        {
+                            "id": 5,
+                            "title": "Hands"
+                        }
+                    ]
+                },
+                {
+                    "title": "Juvederm Volbella",
+                    "unit": "mg",
+                    "id": 19,
+                    "treatment": [
+                        {
+                            "id": 91,
+                            "title": "Upper Face"
+                        },
+                        {
+                            "id": 71,
+                            "title": "Around Eyes"
+                        },
+                        {
+                            "id": 671,
+                            "title": "Lower Face"
+                        },
+                        {
+                            "id": 81,
+                            "title": "Armpits"
+                        },
+                        {
+                            "id": 71,
+                            "title": "Hands"
+                        }
+                    ]
+                }
+            ]
+        },
+        "selectedProduct": {
+            "title": "Juvederm Volbella",
+            "unit": "mg",
+            "id": 19,
+            "treatment": [
+                {
+                    "id": 91,
+                    "title": "Upper Face"
+                },
+                {
+                    "id": 71,
+                    "title": "Around Eyes"
+                },
+                {
+                    "id": 671,
+                    "title": "Lower Face"
+                },
+                {
+                    "id": 81,
+                    "title": "Armpits"
+                },
+                {
+                    "id": 71,
+                    "title": "Hands"
+                }
+            ]
+        },
+        "selectedTreatment": {
+            "id": 2,
+            "title": "Skin",
+            "image": 14
+        },
+        "productValue": "500",
+        "selectedArea": {
+            "id": 4,
+            "title": "Hands"
+        }
+    },
+    {
+        "selectedService": {
+            "id": 2,
+            "title": "Kybella",
+            "product": [
+                {
+                    "title": "Belotero",
+                    "unit": "ml",
+                    "id": 145,
+                    "treatment": [
+                        {
+                            "id": 14,
+                            "title": "Lower Face"
+                        },
+                        {
+                            "id": 14,
+                            "title": "Armpits"
+                        },
+                        {
+                            "id": 14,
+                            "title": "Hands"
+                        }
+                    ]
+                },
+                {
+                    "title": "Juvederm Ultra",
+                    "unit": "ml",
+                    "id": 45454541,
+                    "treatment": [
+                        {
+                            "id": 1,
+                            "title": "Upper Face"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Around Eyes"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Lower Face"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Armpits"
+                        },
+                        {
+                            "id": 5,
+                            "title": "Hands"
+                        }
+                    ]
+                },
+                {
+                    "title": "Juvederm Ultra +",
+                    "unit": "mg",
+                    "id": 13435465,
+                    "treatment": [
+                        {
+                            "id": 1,
+                            "title": "Upper Face"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Around Eyes"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Lower Face"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Armpits"
+                        },
+                        {
+                            "id": 5,
+                            "title": "Hands"
+                        }
+                    ]
+                },
+                {
+                    "title": "Juvederm Volbella",
+                    "unit": "mg",
+                    "id": 10976,
+                    "treatment": [
+                        {
+                            "id": 1,
+                            "title": "Upper Face"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Around Eyes"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Lower Face"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Armpits"
+                        },
+                        {
+                            "id": 5,
+                            "title": "Hands"
+                        }
+                    ]
+                }
+            ]
+        },
+        "selectedProduct": {
+            "title": "Belotero",
+            "unit": "ml",
+            "id": 145,
+            "treatment": [
+                {
+                    "id": 14,
+                    "title": "Lower Face"
+                },
+                {
+                    "id": 14,
+                    "title": "Armpits"
+                },
+                {
+                    "id": 14,
+                    "title": "Hands"
+                }
+            ]
+        },
+        "selectedTreatment": {
+            "id": 1,
+            "title": "Rejuvenation",
+            "image": 12
+        },
+        "productValue": "122",
+        "selectedArea": {
+            "id": 2,
+            "title": "Hands"
+        }
+    }
+]
